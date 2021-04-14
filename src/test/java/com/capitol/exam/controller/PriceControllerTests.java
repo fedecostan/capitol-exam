@@ -1,6 +1,5 @@
-package com.capitol.exam;
+package com.capitol.exam.controller;
 
-import com.capitol.exam.controller.PriceController;
 import com.capitol.exam.model.Price;
 import com.capitol.exam.model.dto.PriceResponseDTO;
 import com.capitol.exam.repository.PriceRepository;
