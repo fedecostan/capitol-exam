@@ -1,6 +1,5 @@
 package com.capitol.exam.controller;
 
-import com.capitol.exam.model.Price;
 import com.capitol.exam.model.dto.PriceResponseDTO;
 import com.capitol.exam.service.PriceService;
 import org.springframework.beans.factory.annotation.Autowired;
